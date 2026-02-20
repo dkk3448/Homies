@@ -27,13 +27,3 @@
 -> use the App on your device or emulation\
 
 ***Note - Open App.js and install any dependencies (libraries) accordingly if any error occurs***
-
-### Addional files Structure in this Project
-
--> Video - video Demo of the App\
--> Presentation - Presentation as given in class\
--> Screenshots - Captures of some screens of the App\
--> Evaluation Documents - Results of evaluation conducted for this App\
--> Code-Project - Main project to run the application
-
-### Final Report is uploaded directly to URCourses along with zip file for this project
